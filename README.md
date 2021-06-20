@@ -40,8 +40,8 @@ The relative percentage of Successful, Failed, or Canceled Campaigns were used a
 this phase of the analysis. While useful as a first-pass, it must be cautioned that many of the number of
 campaigns counted in a given category was sometimes a very small number, such as 0, 1, or 2. As a result,
 it is dubious at best to draw any definitive conclusions from these results, particularly in the higher
-goal categories. More reliable conclusions can be drawn from the results of campaigns with Goals of $15,000
-or less where there are more observations available for comparison within each category.
+goal categories. More reliable conclusions can be drawn from the results of campaigns with Goals of less than
+$25,000 where there are more observations available for comparison within each category.
 
 A visual representation of these results can be seen in Figure 2:
 
@@ -67,19 +67,19 @@ Two conclusions that can be drawn about the Outcomes based on the Launch Date ar
 
 1. A greater number of Successful campaigns appear to be launched during the Summer
 months of May and June. A conclusion that could be drawn from this result is that more people are looking forward
-to theatrical productions put on during the Summer, and have more time to dedicate to seeing them.
+to theatrical productions put on during the Summer, and they have more time to dedicate to seeing them.
 2. More campaigns fail towards the end of the year in November and December. A conclusion that could be drawn from this is
 that more people are spending time with their families during the Holidays, and have greater financial commitments due to travel,
 gift buying, and other higher-priority charitable giving already spoken for in their end-of-year budgets.
 
 ### Outcomes Based on Goals Conclusions
 
-From the Outcomes based on Goals, we can conclude that for Goals less than $1,000 up to $15,000, there is a strong
+From the Outcomes based on Goals, we can conclude that for Goals less than $1,000 up to $30,000, there is a strong
 negative correlation between Goal Size and Campaign Outcome, with smaller Goals being much more likely to Succeed.
-For campaigns with Goals larger than $15,000, the number of observations are much smaller and therefore any
+For campaigns with Goals larger than $30,000, the number of observations are much smaller and therefore any
 conclusions that could be drawn from the results would be highly suspect and subject to interpretation, other than
-the qualitative observation that there are a cluster of highly ambitious large-Goal campaigns in excess of $50,000
-that are occasionally successful.
+the qualitative observation that there is a small cluster of ambitious large-Goal campaigns between $35,000
+and $45,000 that are occasionally successful.
 
 ### Limitations of the Dataset
 
