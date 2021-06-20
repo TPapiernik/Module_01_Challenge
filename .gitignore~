@@ -1,3 +1,6 @@
+..gitignore.un~
+.gitignore.swp
+.gitignore~
 .README.md.un~
 README.md~
 Kickstarter_Challenge.xlsx
