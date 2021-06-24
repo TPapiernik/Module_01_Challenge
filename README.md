@@ -67,7 +67,7 @@ This user-modifiable section of the spreadsheet is shown here for reference in F
 
 ### Outcomes Based on Launch Date Conclusions
 
- Refering back to Figure 1 above, two conclusions that can be drawn about the Outcomes based on the Launch Date are:
+ Referring back to Figure 1 above, two conclusions that can be drawn about the Outcomes based on the Launch Date are:
 
 1. A greater number of Successful campaigns appear to be launched during the Summer
 months of May and June. A conclusion that could be drawn from this result is that more people are looking forward
