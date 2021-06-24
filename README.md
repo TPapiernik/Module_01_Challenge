@@ -59,7 +59,7 @@ themselves remain unchanged. If the desired comparison factors would need to be 
 time, these criteria could more simply be modified in one single location visible to the user, and all the formulas would therefore
 update themselves automatically without needing to be edited.
 
-This user-modifiable section is shown for reference here in Figure 3:
+This user-modifiable section of the spreadsheet is shown here for reference in Figure 3:
 
 ![Figure 3](resources/spreadsheet.png)
 
