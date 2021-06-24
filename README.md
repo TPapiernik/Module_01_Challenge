@@ -41,7 +41,7 @@ this phase of the analysis. While useful as a first-pass, it must be cautioned t
 campaigns counted in a given category was sometimes a very small number, such as 0, 1, or 2. As a result,
 it is dubious at best to draw any definitive conclusions from these results, particularly in the higher
 goal categories. More reliable conclusions can be drawn from the results of campaigns with Goals of less than
-$25,000 where there are more observations available for comparison within each category.
+$25,000 where there are more observations available for comparison within each category. For this analysis in particular, since there were no Cancelled campaigns, the percentage of Successful Campaigns plus the percentage of Failed Campaigns within a given range sums to 100%.
 
 A visual representation of these results can be seen in Figure 2:
 
@@ -59,27 +59,31 @@ themselves remain unchanged. If the desired comparison factors would need to be 
 time, these criteria could more simply be modified in one single location visible to the user, and all the formulas would therefore
 update themselves automatically without needing to be edited.
 
+This user-modifiable section is shown for reference here in Figure 3:
+
+![Figure 3](resources/spreadsheet.png)
+
 ## Results
 
 ### Outcomes Based on Launch Date Conclusions
 
-Two conclusions that can be drawn about the Outcomes based on the Launch Date are:
+ Refering back to Figure 1 above, two conclusions that can be drawn about the Outcomes based on the Launch Date are:
 
 1. A greater number of Successful campaigns appear to be launched during the Summer
 months of May and June. A conclusion that could be drawn from this result is that more people are looking forward
 to theatrical productions put on during the Summer, and they have more time to dedicate to seeing them.
-2. More campaigns fail towards the end of the year in November and December. A conclusion that could be drawn from this is
+2. More campaigns fail towards the end of the year in October, November, and December. A conclusion that could be drawn from this is
 that more people are spending time with their families during the Holidays, and have greater financial commitments due to travel,
 gift buying, and other higher-priority charitable giving already spoken for in their end-of-year budgets.
 
 ### Outcomes Based on Goals Conclusions
 
-From the Outcomes based on Goals, we can conclude that for Goals less than $1,000 up to $30,000, there is a strong
+From the Outcomes based on Goals, visualized in Figure 2 above, we can conclude that for Goals less than $1,000 up to $30,000, there is a strong
 negative correlation between Goal Size and Campaign Outcome, with smaller Goals being much more likely to Succeed.
 For campaigns with Goals larger than $30,000, the number of observations are much smaller and therefore any
 conclusions that could be drawn from the results would be highly suspect and subject to interpretation, other than
 the qualitative observation that there is a small cluster of ambitious large-Goal campaigns between $35,000
-and $45,000 that are occasionally successful.
+and $45,000 that are occasionally successful. 
 
 ### Limitations of the Dataset
 
